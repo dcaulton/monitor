@@ -9,7 +9,7 @@ a mac- and linux- based app for for watching various webapps I work with
 ## install instructions
 * pip install -r requirements.txt
 * install couchdb 
-  ** brew for os x
-  ** use this for linux: http://mattn.github.io/growl-for-linux/
+   - brew for os x
+   - use this for linux: http://mattn.github.io/growl-for-linux/
 
 
